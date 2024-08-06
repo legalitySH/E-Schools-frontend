@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2023",
+    "module": "ESNext",
+    "types": [
+      "@nuxt/types",
+      "@nuxtjs/toast"
+    ],
+    "sourceMap": true
+  }
+}
